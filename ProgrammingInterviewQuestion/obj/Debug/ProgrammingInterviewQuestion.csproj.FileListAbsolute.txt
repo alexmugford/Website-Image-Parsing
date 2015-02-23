@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\bin\Debug\ProgrammingInterviewQuestion.exe
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\bin\Debug\ProgrammingInterviewQuestion.pdb
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.Form1.resources
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.Properties.Resources.resources
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.exe
+C:\Users\Alex\Desktop\Dynac Code\ProgrammingInterviewQuestion\ProgrammingInterviewQuestion\obj\Debug\ProgrammingInterviewQuestion.pdb
